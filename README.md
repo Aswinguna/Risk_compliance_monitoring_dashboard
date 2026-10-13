@@ -45,8 +45,8 @@ The simulator plants a problem on purpose so the dashboard has something real to
 
 For the sanctions desk, the dashboard shows:
 
-- SLA compliance falling from about 91% (30 days to 30 June) to about 59% (30 days to 30 September), while other queues stay between roughly 80% and 90%
-- the open backlog roughly doubling
+- SLA compliance falling from about 91% (30 days to 30 June) to about 59% (30 days to 30 September), while the other queues stay roughly flat between 72% and 89% (adverse media is below target throughout, which is a second, quieter finding)
+- the open backlog more than doubling, from 40 to 92 alerts
 - a clearance rate of 98%, which looks fine on its own and is the reason it should never be read alone
 
 A test asserts that this storyline is visible in the KPIs.
